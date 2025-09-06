@@ -41,8 +41,8 @@ sudo apt-get install git -y
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/Lilcheque/Black-dEVIL.git
-cd Black-dEVIL
+git clone https://github.com/Lilcheque/Black-dEVIL1.git
+cd Black-dEVIL1 
 ```
 
 ### Install Dependencies
@@ -60,7 +60,7 @@ chmod +x setup.sh
 ### Run the Toolkit
 
 ```bash
-bash black_devil.sh
+bash black_devil1.sh
 ```
 
 ### [Optional] Start Awareness Server (for fake login demo)
